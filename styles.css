@@ -1,0 +1,125 @@
+#upperribbon{
+    background: pink;
+    overflow: hidden;
+    height: 50px;
+}
+
+#upperribbon a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    color: white;
+    float: left;
+    padding: 15px 16px;
+    text-align: center;
+    text-decoration: none;
+    
+}
+
+a:hover{
+    background-color: blue;
+}
+
+#icon{
+    width: 50px;
+}
+
+#iconbar{
+    float: right;
+}
+#body{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+body {
+    background: lightblue url("img_tree.gif") no-repeat fixed center;
+  }
+
+#picture{
+    width: 640px;
+    height: 400px;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(215, 250, 245, 0.486);
+    border-radius: 10px;
+}
+#courseinfo, #otherwork, #researchinfo{
+
+    display: flex;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(215, 250, 245, 0.486);
+    border-radius: 10px;
+}
+
+#project_header{
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#name{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+
+}
+
+
+#projects{
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 800px;
+    height: 250px;
+}
+
+#CMSC128, #CMSC137, #CMSC23{
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    background-color: rgba(215, 250, 245, 0.486);
+    border-radius: 10px;
+}
+#elbnb, #agario, #sesia{
+    text-align: center;
+    font-size: 24px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+#appdesc{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+}
+
+#techstack{
+    font-size: 12px;
+
+}
+
+#info{
+    float: left;
+    width: 50%;
+}
+#name{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+   
+}
+
+
+#nickname{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 19px;
+
+}
+
+#picture #pic{
+    float: right;
+    width: 40%;
+    border-radius: 5px;
+}
